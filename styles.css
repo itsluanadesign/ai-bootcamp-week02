@@ -168,6 +168,20 @@ body {
     background-color: #333;
 }
 
+.download-button.tertiary {
+    background-color: transparent;
+    border: 1px solid #D8D6CE;
+    color: #333;
+}
+
+.download-button.tertiary:hover {
+    background-color: #c5c3bc
+}
+
+.download-button.tertiary:active {
+    background-color: #c5c3bc;
+}
+
 /* ============================================
    8. PAGE LABEL
    Small badge at the top of the viewport
